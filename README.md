@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there👋 I'm Susana
 
-<!--
-**susdiaz-sudo/susdiaz-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: **Aprendiz de programadora**
 
-Here are some ideas to get you started:
+:round_pushpin: **Madrid, Spain**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:birthday: **25 de enero de 1994**
+
+:video_game: **Amante de los videojuegos**
+
+:musical_note: **Amante de la música electrónica**
+
+<!--###Vías de contacto
+![Website]()-->
