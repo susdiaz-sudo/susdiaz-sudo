@@ -1,6 +1,6 @@
 ## Hi there👋 I'm Susana
 
-:computer: **web programming student**
+:computer: **Web programming student**
 
 :round_pushpin: **Madrid, Spain**
 
