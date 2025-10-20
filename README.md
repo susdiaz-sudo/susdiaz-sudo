@@ -8,7 +8,7 @@
 
 :video_game: **Videogame lover**
 
-:musical_note: **Lover of electronic music**
+:musical_note: **Electronic music lover**
 
 <!--###Vías de contacto
 ![Website]()-->
